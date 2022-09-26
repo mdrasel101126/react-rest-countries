@@ -1,0 +1,8 @@
+h1{
+    color: blue;
+}
+
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
